@@ -1,5 +1,16 @@
 # Hi, I'm Ana Steph
 
-- 🔭 I’m currently working at [Laboratoria](https://github.com/Laboratoria) with MERN Stack
+_Front-End Developer, passionate about planning and organizing, enthusiastic about improving the world one line of code at a time._
 
-- 🌱 I’m currently learning Swift
+
+- I’m currently working at [Laboratoria](https://github.com/Laboratoria) with MERN Stack
+
+- I’m currently learning Swift
+
+
+![Steph's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephsalazar&count_private=true&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephsalazar&hide=css&layout=compact)
+
+[![](https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true)](https://www.linkedin.com/in/ana-stephany-salazar/)
+
